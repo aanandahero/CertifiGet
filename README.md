@@ -18,7 +18,7 @@ In short:
 - Docker-based deployment for ease of setup
 
 ## Usage guide
-**For Participants / Recipients**
+<u>**For Participants / Recipients**</u>
 
 -Visit the link.[CertifiGet](https://computerclubkec.github.io/CertifiGet/)
 
@@ -28,7 +28,7 @@ In short:
 
 -Download the certificate as PDF. 
 
-**For organizers**
+<u>**For organizers**</u>
 
 -Upload or create certificate templates.
 
