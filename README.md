@@ -15,7 +15,39 @@ In short:
 
 - Certificate template support (e.g. custom design, placeholders)  
 - Participant certificate access (via web link or unique ID)  
-- Docker-based deployment for ease of setup  
+- Docker-based deployment for ease of setup
+
+## Usage guide
+**For Participants / Recipients**
+
+-Visit the link.
+
+-Select Event.
+
+-Enter your name.
+
+-Download the certificate as PDF. 
+
+**For organizers**
+
+-Upload or create certificate templates.
+
+-Import participant data (name, email, event title, etc.)
+
+-Assign which participants get certificates
+
+-Trigger issuance (bulk or individual)
+
+## Development & Contributing
+
+If you want to contribute:
+
+  1. Fork the repository.
+  2. Create a new branch (e.g. feature/my-feature).
+  3. Make your changes, with tests if applicable.
+  4. Submit a pull request describing your changes.
+     
+Please follow the existing coding style, write clear commit messages, and ensure compatibility across environments.
 
 ## Prerequisites (While contributing)
 
@@ -46,16 +78,7 @@ Below is a sample sequence to get CertifiGet up and running locally using Docker
    
    Once containers are running, open your browser at http://localhost:4000 (or the port you configured).
 
-## Development & Contributing
 
-If you want to contribute:
-
-  1. Fork the repository.
-  2. Create a new branch (e.g. feature/my-feature).
-  3. Make your changes, with tests if applicable.
-  4. Submit a pull request describing your changes.
-     
-Please follow the existing coding style, write clear commit messages, and ensure compatibility across environments.
 
 
 
