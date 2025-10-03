@@ -20,7 +20,7 @@ In short:
 ## Usage guide
 **For Participants / Recipients**
 
--Visit the link.
+-Visit the link.[CertifiGet](https://computerclubkec.github.io/CertifiGet/)
 
 -Select Event.
 
