@@ -17,7 +17,7 @@ In short:
 - Participant certificate access (via web link or unique ID)  
 - Docker-based deployment for ease of setup  
 
-## Prerequisites
+## Prerequisites (While contributing)
 
 Before installing / running, ensure you have:
 
@@ -39,9 +39,9 @@ Below is a sample sequence to get CertifiGet up and running locally using Docker
    cp .env.example .env
    ```
 3. **Start via Docker Compose**
-  ```bash
-  docker-compose up --build
-  ```
+   ```bash
+   docker-compose up --build
+   ```
 4. **Access the application**
    
    Once containers are running, open your browser at http://localhost:4000 (or the port you configured).
